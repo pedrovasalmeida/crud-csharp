@@ -1,9 +1,15 @@
 # CRUD em C#
 
-Projeto simples para estudar os fundamentos do desenvolvimento em C# antes de migrar para DOTNET.
+Projeto simples para estudar os fundamentos do desenvolvimento em C# e, após, migrar para o .NET.
 
 ## Como usar
 
-1. Abrir o terminal na pasta `crud-csharp`.
-2. Executar `dotnet run` para compilar e rodar o protótipo.
-3. Seguir as instruções interativas no console para criar, listar, atualizar e remover usuários.
+### CLI
+
+1. Abra o terminal na pasta "crud-csharp/UserCrud".
+2. Execute `dotnet run` para complicar e rodar o protótipo.
+3. Utilize as opções disponíveis no menu.
+
+### API
+
+Work in progress.
