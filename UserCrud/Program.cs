@@ -13,7 +13,7 @@ while (_continue == true)
   Console.WriteLine("- 2. Adicionar usuário");
   Console.WriteLine("- 3. Ativar/desativar usuário");
   Console.WriteLine("- 4. Remover usuário");
-  Console.WriteLine("- 4. Sair");
+  Console.WriteLine("- 5. Sair");
   Console.WriteLine("---");
   Console.WriteLine("Digite a opção escolhida: ");
   var option = Console.ReadLine();
@@ -29,6 +29,9 @@ while (_continue == true)
       userServices.ToggleUserStatus();
       break;
     case "4":
+      userServices.Delete();
+      break;
+    case "5":
       _continue = false;
       break;
     default: 

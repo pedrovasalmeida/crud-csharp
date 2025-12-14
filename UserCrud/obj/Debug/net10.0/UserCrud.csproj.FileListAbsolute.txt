@@ -12,3 +12,4 @@
 /Users/pedro/dev/pedro/repositories/crud-csharp/UserCrud/obj/Debug/net10.0/UserCrud.pdb
 /Users/pedro/dev/pedro/repositories/crud-csharp/UserCrud/obj/Debug/net10.0/UserCrud.genruntimeconfig.cache
 /Users/pedro/dev/pedro/repositories/crud-csharp/UserCrud/obj/Debug/net10.0/ref/UserCrud.dll
+/Users/pedro/dev/pedro/repositories/crud-csharp/UserCrud/obj/Debug/net10.0/UserCrud.sourcelink.json

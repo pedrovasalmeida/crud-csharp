@@ -50,18 +50,27 @@ public class UserService {
     _users.Add(user);
   }
 
-  public void Delete(int id)
+  public void Delete()
   {
-    var user = _users.FirstOrDefault(u => u.Id == id);
+    Console.WriteLine("Digite o id do usuário que deseja remover: ");
+    var id = Console.ReadLine();
+    if (id == null)
+    {
+      Console.WriteLine("Informar o ID é obrigatório.");
+      return;
+    }
+    _ = int.TryParse(id, out int idNumber);
+    var user = _users.FirstOrDefault(u => u.Id == idNumber);
     if (user == null)
     {
       Console.WriteLine($"Usuário com id '{id}' não encontrado.");
       return;
     }
     _users.Remove(user);
+    Console.WriteLine($"Usuário com id '{id}' removido.");
   }
 
-  private String GetCurrentStatus(bool status)
+  private static string GetCurrentStatus(bool status)
   {
     if (status == true) return "Ativo";
     return "Inativo";
