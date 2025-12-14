@@ -1,0 +1,14 @@
+/Users/pedro/dev/pedro/repositories/crud-csharp/UserCrud/bin/Debug/net10.0/UserCrud
+/Users/pedro/dev/pedro/repositories/crud-csharp/UserCrud/bin/Debug/net10.0/UserCrud.deps.json
+/Users/pedro/dev/pedro/repositories/crud-csharp/UserCrud/bin/Debug/net10.0/UserCrud.runtimeconfig.json
+/Users/pedro/dev/pedro/repositories/crud-csharp/UserCrud/bin/Debug/net10.0/UserCrud.dll
+/Users/pedro/dev/pedro/repositories/crud-csharp/UserCrud/bin/Debug/net10.0/UserCrud.pdb
+/Users/pedro/dev/pedro/repositories/crud-csharp/UserCrud/obj/Debug/net10.0/UserCrud.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pedro/dev/pedro/repositories/crud-csharp/UserCrud/obj/Debug/net10.0/UserCrud.AssemblyInfoInputs.cache
+/Users/pedro/dev/pedro/repositories/crud-csharp/UserCrud/obj/Debug/net10.0/UserCrud.AssemblyInfo.cs
+/Users/pedro/dev/pedro/repositories/crud-csharp/UserCrud/obj/Debug/net10.0/UserCrud.csproj.CoreCompileInputs.cache
+/Users/pedro/dev/pedro/repositories/crud-csharp/UserCrud/obj/Debug/net10.0/UserCrud.dll
+/Users/pedro/dev/pedro/repositories/crud-csharp/UserCrud/obj/Debug/net10.0/refint/UserCrud.dll
+/Users/pedro/dev/pedro/repositories/crud-csharp/UserCrud/obj/Debug/net10.0/UserCrud.pdb
+/Users/pedro/dev/pedro/repositories/crud-csharp/UserCrud/obj/Debug/net10.0/UserCrud.genruntimeconfig.cache
+/Users/pedro/dev/pedro/repositories/crud-csharp/UserCrud/obj/Debug/net10.0/ref/UserCrud.dll
